@@ -4,23 +4,23 @@
 
 # \## Descripción
 
-# 
 
-# Este proyecto resuelve el problema de las escaleras utilizando Programación Dinámica.
 
-# 
+Este proyecto resuelve el problema de las escaleras utilizando Programación Dinámica.
 
-# El objetivo es calcular cuántas formas diferentes existen para llegar exactamente al escalón \*\*N\*\*, considerando que en cada movimiento solo se puede avanzar:
 
-# 
 
-# \- 1 escalón
-
-# \- 2 escalones
+El objetivo es calcular cuántas formas diferentes existen para llegar exactamente al escalón \*\*N\*\*, considerando que en cada movimiento solo se puede avanzar:
 
 # 
 
-# Además, el programa muestra la tabla DP generada durante la ejecución.
+##### \- 1 escalón
+
+##### \- 2 escalones
+
+# 
+
+Además, el programa muestra la tabla DP generada durante la ejecución.
 
 # 
 
@@ -28,7 +28,7 @@
 
 # 
 
-# \- Java
+\- Java
 
 # 
 
@@ -40,11 +40,9 @@
 
 # 
 
-# ```bash
+bash
 
-# javac EscalerasDP.java
-
-# ```
+javac EscalerasDP.java
 
 # 
 
@@ -52,11 +50,11 @@
 
 # 
 
-# ```bash
+bash
 
-# java EscalerasDP
+java EscalerasDP
 
-# ```
+# 
 
 # 
 
@@ -72,11 +70,7 @@
 
 # 
 
-# ```
-
 # 5
-
-# ```
 
 # 
 
@@ -84,15 +78,11 @@
 
 # 
 
-# ```
-
 # Formas posibles: 8
 
 # Tabla DP:
 
 # \[1, 1, 2, 3, 5, 8]
-
-# ```
 
 # 
 
